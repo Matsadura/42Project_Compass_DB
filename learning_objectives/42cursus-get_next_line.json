@@ -1,0 +1,7 @@
+[
+    "What is a static variable and how to use it",
+    "What is a file descriptor",
+    "What is read() syscall and how does it work",
+    "What is memory leak, how to detect it and handle it",
+    "Effective memory management including allocation and deallocation"
+]
