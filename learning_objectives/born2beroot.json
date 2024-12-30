@@ -6,7 +6,6 @@
 	"What are partitions, what's their purpose and how to set them up",
 	"How to view the partitions of the machine?",
 	"What is a Primary and a Logical partitions, and what are their diffrences?",
-	"What is the difference between encrypted volume and encrypted partition?",
 	"How LVM works and what it is all about?",
 	"What is Sudo, why use it and how to set up it's strict rules?",
 	"How to create a user and change it's password?",
